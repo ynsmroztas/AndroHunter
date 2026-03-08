@@ -1,3 +1,5 @@
+![AndroHunter](images/banner.png)
+
 # AndroHunter
 
 <p align="center">
