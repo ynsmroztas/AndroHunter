@@ -302,7 +302,6 @@ adb shell content read --uri 'content://com.target.app.fileprovider/files/../../
 ## Author
 
 **ynsmroztas** — [@ynsmroztas](https://x.com/ynsmroztas) · MITSEC
-Bug bounty hunter · Yes We Hack · HackerOne
 
 ---
 
