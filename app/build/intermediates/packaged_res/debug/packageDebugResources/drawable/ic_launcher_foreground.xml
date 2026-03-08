@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background -->
+    <path android:fillColor="#080C10" android:pathData="M0,0h108v108h-108z"/>
+    <!-- Crosshair outer circle -->
+    <path android:strokeColor="#00FF88" android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M54,20 A34,34 0 1,1 53.99,20 Z"/>
+    <!-- Crosshair lines -->
+    <path android:strokeColor="#00FF88" android:strokeWidth="2"
+        android:pathData="M54,14 L54,26 M54,82 L54,94 M14,54 L26,54 M82,54 L94,54"/>
+    <!-- Inner circle -->
+    <path android:strokeColor="#00FF88" android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,38 A16,16 0 1,1 53.99,38 Z"/>
+    <!-- Center dot -->
+    <path android:fillColor="#00FF88"
+        android:pathData="M54,50 A4,4 0 1,1 53.99,50 Z"/>
+    <!-- A letter stylized -->
+    <path android:strokeColor="#00FF88" android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M46,68 L54,52 L62,68 M48.5,63 L59.5,63"/>
+</vector>

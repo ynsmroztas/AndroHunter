@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.androhunter.app-debug-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.androhunter.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.androhunter.app-debug-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.androhunter.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.9/com.androhunter.app-debug-56:/xml_accessibility_service_config.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.9/com.androhunter.app-main-58:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.androhunter.app-debug-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.androhunter.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.androhunter.app-debug-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.androhunter.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
